@@ -4,8 +4,8 @@
 **Software Trainee | Backend Developer | Java | JDBC | SERVLETS | SpringBoot**
 
 📍 Chennai, Tamil Nadu  
-📧 [Gmail](gunasekaranb2808@gmail.com) | [Outlook](guna280897@outlook.com)  
-🔗 [Portfolio](https://https://guna2808.github.io/My_Portfolio/) | [GitHub](https://github.com/guna2808) | [LinkedIn](http://linkedin.com/in/guna28)
+📧 [Gmail](mailto:gunasekaranb2808@gmail.com) | [Outlook](mailto:guna280897@outlook.com)  
+🔗 [Portfolio](https://guna2808.github.io/My_Portfolio/) | [GitHub](https://github.com/guna2808) | [LinkedIn](http://linkedin.com/in/guna28)
 
 ---
 ## 👋 About Me
@@ -99,8 +99,8 @@ I am currently undergoing professional training at **BlueScope Information Techn
 
 - 🔗 [GitHub](https://github.com/guna2808)
 - 💼 [LinkedIn](https://www.linkedin.com/in/guna28/)
-- 📧 [Email](gunasekaranb2808@gmail.com)
-- 🌐 [Portfolio](https://https://guna2808.github.io/My_Portfolio/)
+- 📧 [Email](mailto:gunasekaranb2808@gmail.com)
+- 🌐 [Portfolio](https://guna2808.github.io/My_Portfolio/)
 
 ---
 
