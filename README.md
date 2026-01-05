@@ -29,7 +29,7 @@ I am currently undergoing professional training at **BlueScope Information Techn
 - 🏫 Arulmigu Palaniandavar Arts & Culture College, Palani.  
 
 ---  
-## 🏦 FinTech Backend Tech Stack
+## 🏦 Tech Stacks
 
 ### 🔹 Core Backend
 
